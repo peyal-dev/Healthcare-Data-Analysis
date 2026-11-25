@@ -42,3 +42,4 @@ This project uses multiple Excel files as source data. The datasets are used for
 
 👤 Author
 Healthcare Data Analysis project developed using Microsoft Power BI.
+https://github.com/peyal-dev/Healthcare-Data-Analysis/blob/main/Dashboard%20Screenshot%20.png
